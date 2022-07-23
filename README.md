@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 Learning Full-stack infrastructure using JavaScript!
 ```
 - 🎯 In the near future, I plan to...
-  - Redesign and scale my [Web Portfolio](https://github.com/youngjun827/youngjun827.github.io)
-	- Build my own REST API and server to the [Feedback App](https://github.com/youngjun827/feedback-app)
-	- Learn how to contribute and participate to an open source project
-	- Learn Golang!! Because, I love their [Gopher](https://go.dev/blog/gopher#:~:text=The%20Go%20gopher%20is%20an,radio%20station%20in%20New%20Jersey.) design!
+  	- Redesign and scale my [Web Portfolio](https://github.com/youngjun827/youngjun827.github.io)
+  	- Build my own REST API and server to the [Feedback App](https://github.com/youngjun827/feedback-app)
+  	- Learn how to contribute and participate to an open source project
+  	- Learn Golang!! Because, I love their [Gopher](https://go.dev/blog/gopher#:~:text=The%20Go%20gopher%20is%20an,radio%20station%20in%20New%20Jersey.) design!
 	- Study how to design advanced functional programs (CS145), and learn algebra and calculus (MATH 145 && 147) in depth at the University.
 - 🤞 One day I hope to...
 	- Go to a UFC main event in person! 
