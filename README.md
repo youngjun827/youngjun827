@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🎓 Incoming Student to the Honours Computer Science and Mathematics with Co-op at the University of Waterloom class of 2027
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+- 🔨 I'm currently...
 ```yaml
 Learning Full-stack infrastructure using JavaScript!
 ```
