@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🖥 Full-stack software developer
 - 🎓 Incoming Student to the Honours Computer Science and Mathematics with Co-op at the University of Waterloom class of 2027
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+## ⬆ What I'm up to
 - 🔨 I'm currently...
 ```yaml
 Learning Full-stack infrastructure using JavaScript!
