@@ -21,3 +21,22 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngjun827&langs_count=3&hide_title=true&hide_border=true" />
 </a>
+
+## :book: About me
+- 🖥 Full-stack software developer
+- 🎓 Incoming Student to the Honours Computer Science and Mathematics with Co-op at the University of Waterloom class of 2027
+
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
+```yaml
+Learning Full-stack infrastructure using JavaScript!
+```
+- 🎯 In the near future, I plan to...
+  - Redesign and scale my [Web Portfolio](https://github.com/youngjun827/youngjun827.github.io)
+	- Build my own REST API and server to the [Feedback App](https://github.com/youngjun827/feedback-app)
+	- Learn how to contribute and participate to an open source project
+	- Learn Golang!! Because, I love their [Gopher](https://go.dev/blog/gopher#:~:text=The%20Go%20gopher%20is%20an,radio%20station%20in%20New%20Jersey.) design!
+	- Study how to design advanced functional programs (CS145), and learn algebra and calculus (MATH 145 && 147) in depth at the University.
+- 🤞 One day I hope to...
+	- Go to a UFC main event in person! 
+
